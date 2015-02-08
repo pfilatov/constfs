@@ -1,0 +1,9 @@
+estorage (0.1.0) unstable; urgency=low
+
+	* init version
+	* + memcached
+	* + nginx
+	* + ngx_http_constfs_module
+	*
+  
+  -- Pavel <pavel@qip.ru>
